@@ -1,6 +1,10 @@
 const Header = () => {
+    
+
   return (
-    <header>Groceries List</header>
+    <header>
+        <h1>Groceries List</h1>
+    </header>
   )
 }
 
