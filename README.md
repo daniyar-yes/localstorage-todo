@@ -1,3 +1,9 @@
+# React app that allows creating and adding entries to a to-do list, removing, marking complete tasks, searching tasks. Important changes are saved in local storage for persistence on refresh.
+
+# Demo GIF
+
+![](https://github.com/daniyar-yes/localstorage-todo/blob/main/public/React-ToDo.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
